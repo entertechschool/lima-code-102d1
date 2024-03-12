@@ -34,3 +34,7 @@ Ve las diapositivas y tareas de la clase para obtener más detalles.
 - Web Publishing
 - Path Learning
 - Sandbox Learning
+
+## Video de la clase
+- [Link de zoom](https://us06web.zoom.us/rec/share/TWD22gnZAKA6op67tQxzCe-r8ncFVpXynPvU-uu4Dp_o46KYNkdldNaUATWeoxjp.qq8IY5L9ZxEr2h9L?startTime=1710202104000)
+- Código de Acceso: Solicitar al Instructor.
