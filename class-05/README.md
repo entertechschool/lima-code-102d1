@@ -1,33 +1,34 @@
-# Style Web Pages with CSS
+# Diseñar páginas web con CSS
 
-## Learning Objectives
+## Objetivos de aprendizaje
 
-- Students will understand the role of CSS in creating a complete web page.
-- Students will know how to use a tool to generate a reasonable color theme to apply to a web site design.
-- Students will apply colors to a wireframe to bring out the vibrancy of a web page, controlling text color, background color, and box-model colors.
+- Los estudiantes comprenderán el papel de CSS en la creación de una página web completa.
+- Los estudiantes sabrán cómo utilizar una herramienta para generar un tema de color razonable para aplicar al diseño de un sitio web.
+- Los estudiantes aplicarán colores a una wireframe para resaltar la vitalidad de una página web, controlando el color del texto, el color de fondo y los colores del box-model.
 
-## Class Agenda
+## Agenda de clase
 
-- Review of previous class
-  - Share your learning
+- Review de la clase anterior.
+   - Comparte tu aprendizaje
 - CSS
-  - Recap from Code 101
-  - Discussion Exercise
-- From Mockup to Markup
-  - Demo
-  - Lab: Wireframe and Build
+   - Resumen del Code 101.
+   - Ejercicio de discusión
+- Mockup to Markup
+   - Demostración.
+   - Laboratorio: wireframe y construcción.
 
-## New Vocabulary
+## Nuevo Vocabulario
 
 - CSS
 - RGB
 - HSL
-- Hex codes
+- Códigos Hexadecimales
 - Layout
 - Rule
 - Selector
-- Property & value
-- Curly braces
+- Propiedad y valor
+- Llaves
+
 ## Video de la clase
 - [Link de Zoom](https://us06web.zoom.us/rec/share/ImIIctTDJF3kQOMB29jVkWJTvYjxJtLyerF32lPx9HRm5HNIl-2QHt2ENmfALg8D.PRzZmeT8QjJW0tqX).
 - Código de acceso: Solicitalo al Instructor.
