@@ -34,3 +34,6 @@
 ## Video de clase
  + [Link de Zoom](https://us06web.zoom.us/rec/share/2kn3NcjcUGf75r5qzHV70-K-SnUypfji-3eqeCuykoOl9ZurEmjdGgEMsrSPYVKQ.Rn8u04tYNvEC5kxU)
  + Código de acceso: Solicitar al instructor.
+
+## Demo de la clase
+[Plantpedia HTML doc](demo/index.html)
