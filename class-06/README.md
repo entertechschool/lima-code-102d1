@@ -24,3 +24,11 @@
 - Operadores
 - Tipos de datos
 - Variable
+
+## Video de la clase
+- [Link de Zoom Class 06](https://us06web.zoom.us/rec/share/SyA09_hxxkYoLEErpDb1lOKYQvSxhJnT-YdDgmxTDwEC3VwYh_Br3Jl2tusWS8at.aUiSWei_C__yleNq).
+- [Link de Zoom Class 06 Lab](https://us06web.zoom.us/rec/share/yJ0_2f0fD5tvpFqZHqbGWG-FDVELsHX4hwgqMCd2iHLxiCeIPQzuEKc9o7H85jGG.jqEMVKsfcktbTcC-)
+- Código de acceso: Solicitalo al Instructor.
+
+## Demo de la clase
+[Plantpedia HTML + CSS + JS](demo)
