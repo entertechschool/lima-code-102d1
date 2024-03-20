@@ -1,25 +1,5 @@
 "use strict"; // Nos obliga a escribir sintaxis actualizada de JS.
 
-// alert("Me gusta interrumpir");
-// document.write("PERU");
-// console.log("Hola Georgina");
-
-// let userName = prompt("Cuál es tu nombre?");
-// document.write("Bienvenido " + userName);
-// console.log("Welcome " + userName);
-
-// let userConfirm = confirm("Ere mayor de edad?");
-// let userName = prompt("Cuál es tu nombre?");
-// console.log(userConfirm);
-
-// if (userConfirm) {
-// 	console.log("Bienvenido Sr@." + userName);
-// 	document.write("Bienvenido Sr@." + userName);
-// } else {
-// 	console.log("Hola amig@ " + userName);
-// 	document.write("Hola amig@ " + userName);
-// }
-
 // Functions:
 /* 
 Un conjunto de instrucciones
@@ -68,4 +48,26 @@ function sumarDesdePrompt() {
 	alert(suma);
 }
 
-sumarDesdePrompt();
+// sumarDesdePrompt();
+
+function saludar() {
+	document.write("Bienvenido!");
+}
+
+function obtenerNombre() {
+	let userName = prompt("Cuál es tu nombre?");
+	document.write("Es un gusto " + userName);
+}
+
+function saludarPorHora() {
+	let horaActual = prompt("Qué hora es? (0-23)");
+	horaActual = parseInt(horaActual);
+	if (horaActual > 17) {
+		document.write("Buenas noches querido alumno");
+	} else if (horaActual > 12) {
+		document.write("Buenas tardes querido alumno");
+	} else {
+		document.write("Buenos dias querido alumno");
+	}
+}
+
